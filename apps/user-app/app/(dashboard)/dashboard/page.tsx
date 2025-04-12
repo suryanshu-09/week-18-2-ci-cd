@@ -1,6 +1,6 @@
 
 export default function () {
   return <div>
-    Dashboard is new
+    Dashboard is new. But is it though?
   </div>
 }
